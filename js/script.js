@@ -6,3 +6,5 @@ const myFunc = () => {
 };
 
 const b = 60;
+
+const abc = 50;
