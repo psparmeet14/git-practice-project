@@ -1,4 +1,8 @@
 const s = 100;
-const myFunc = () => {};
 const c = 111;
+
+const myFunc = () => {
+    console.log("hi");
+};
+
 const b = 60;
