@@ -6,4 +6,6 @@ const myFunc = () => {
 };
 
 const b = 60;
+const abcFunc = () => {};
 const xyz = 'Parm';
+
